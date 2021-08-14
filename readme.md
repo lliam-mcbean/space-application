@@ -1,4 +1,4 @@
-# Three.js Journey
+# Space Demo
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
